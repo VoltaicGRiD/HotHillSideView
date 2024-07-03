@@ -1,3 +1,12 @@
+# Hot Hillside View Ergonomic Keyboard
+A forked build of the below _Hillside View_ which was itself forked from the original _Hillside_ ergonomic keyboard.
+
+A 46-key, nide!nano + nice!view ready, hot-swap compatible, split, dual-sided keyboard PCB. 
+
+**I have not yet updated the BOM or the rest of this Wiki / Readme**, this project is still a work in progress, unless you know what you're doing, I strongly recommend avoiding this project until I've been able to test it for myself.
+
+Thanks for visiting!
+
 # Hillside View Ergonomic Keyboard
 
 3x6                       |  3x5
